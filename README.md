@@ -1,8 +1,8 @@
 ### Hola 👋
 
 🔭 Actualmente estoy trabajando en diversos proyectos:<br/>
-Programación en Java <br/>
-Páginas Web en HTML <br/>
+- Programación en Java <br/>
+- Páginas Web en HTML <br/>
 🌱 Perfecciono diariamente mis conocimientos <br/>
 💬 Pregúntame sobre cualquier duda <br/>
 📫 Cómo contactarme: <br/>
