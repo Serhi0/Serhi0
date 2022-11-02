@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Serhi0/Serhi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente estoy trabajando en diversos proyectos:
+Programación en Java
+Páginas Web en HTML
+Conocimiento del lenguaje MySQL
+🌱 Perfecciono diariamente mis conocimientos
+💬 Pregúntame sobre cualquier duda
+📫 Cómo contactarme:
+📫 Perfil de stack overflow: https://es.stackoverflow.com/users/309792/sergio
+⚡ Dato curioso: Me implico mucho en lo que hago
+- SOBRE MI:
+Deportista
