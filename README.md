@@ -5,7 +5,7 @@
 - Páginas Web en HTML <br/>
 🌱 Perfecciono diariamente mis conocimientos <br/>
 💬 Pregúntame sobre cualquier duda <br/>
-📫 Cómo contactarme: <br/>
+📫 Cómo contactarme: serhi0.oficial@gmail.com <br/>
 📫 Perfil de stack overflow: https://es.stackoverflow.com/users/309792/sergio <br/>
 ⚡ Dato curioso: Me implico mucho en lo que hago <br/>
 - SOBRE MI: <br/>
